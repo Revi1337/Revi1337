@@ -13,7 +13,6 @@
 
 [![revi1337's tryhackme stats](https://raw.githubusercontent.com/Revi1337/Revi1337/main/assets/thm_propic.png)][tryhackme]
 
-
 [website]: https://revi1337.com
 [tryhackme]: https://tryhackme.com/p/revi1337
-[hackthebox]: https://www.hackthebox.eu/home/users/profile/311399
+[hackthebox]: https://app.hackthebox.com/profile/1002993
