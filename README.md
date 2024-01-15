@@ -12,6 +12,8 @@
 ### Cyber Security Stats
 
 [![revi1337's tryhackme stats](https://raw.githubusercontent.com/Revi1337/Revi1337/main/assets/thm_propic.png)][tryhackme]
+[![revi1337's hackthebox stats](https://www.hackthebox.com/badge/image/1002993)][hackthebox]
+
 
 [website]: https://revi1337.com
 [tryhackme]: https://tryhackme.com/p/revi1337
