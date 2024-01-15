@@ -11,4 +11,4 @@
 
 ### Cyber Security Stats
 
-![tryhackme stats](https://raw.githubusercontent.com/Revi1337/Revi1337/main/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/Revi1337/Revi1337/master/assets/thm_propic.png)
