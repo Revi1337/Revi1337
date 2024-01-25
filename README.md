@@ -1,7 +1,7 @@
 ### Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2053%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,7 +25,7 @@ Windows                  52 hrs 13 mins      ███████████�
 ```
 
 
- Last Updated on 25/01/2024 06:46:26 UTC
+ Last Updated on 25/01/2024 16:11:35 UTC
 <!--END_SECTION:waka-->
 
 ### Algorithm Stats
