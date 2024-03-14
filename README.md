@@ -26,9 +26,9 @@ Windows                  46 hrs 40 mins      ███████████�
  Last Updated on 13/03/2024 16:45:07 UTC
 <!--END_SECTION:waka-->
 
-### Algorithm Stats
+<!--### Algorithm Stats-->
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=revi1337)](https://solved.ac/revi1337)
+<!--[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=revi1337)](https://solved.ac/revi1337)-->
 
 ### Cyber Security Stats
 
