@@ -43,6 +43,7 @@ Windows                  53 hrs 24 mins      ███████████�
 
 ### Tools
 
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitKraken](https://img.shields.io/badge/Git%20Kraken-179287.svg?&style=for-the-badge&logo=GitKraken&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
