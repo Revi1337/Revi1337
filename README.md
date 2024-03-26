@@ -49,25 +49,22 @@ Windows                  53 hrs 24 mins      ███████████�
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 
-### Terminal
-
-![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
-
 ### OS
 
 ![Windows 10](https://img.shields.io/badge/Windows_10-0078d4?style=for-the-badge&logo=windows-10&logoColor=whiteCALACAA&sourceid=chrome&ie=UTF-8)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+### Terminal
+
+![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+
 ### Social
 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Hackerone](https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white)
-!HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
 ![TryHackMe](https://img.shields.io/badge/Try%20Hack%20Me-212C42?style=for-the-badge&logo=TryHackMe&logoColor=ff0000)
-
-
-[website]: https://revi1337.com
-[tryhackme]: https://tryhackme.com/p/revi1337
-[hackthebox]: https://app.hackthebox.com/profile/1002993
+![RootMe](https://img.shields.io/badge/RootMe-000000?style=for-the-badge&logo=RootMe&logoColor=white)
