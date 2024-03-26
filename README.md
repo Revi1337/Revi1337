@@ -43,33 +43,32 @@ Windows                  53 hrs 24 mins      ███████████�
 
 ### Tools
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitKraken](https://img.shields.io/badge/Git%20Kraken-179287.svg?&style=for-the-badge&logo=GitKraken&logoColor=white)
-![intellijidea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=Burp%20Suite&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
+[![GitKraken](https://img.shields.io/badge/Git%20Kraken-179287.svg?&style=flat&logo=GitKraken&logoColor=white)](https://www.gitkraken.com/)
+[![intellijidea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/ko-kr/idea/)
+[![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)](https://www.postman.com/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=Wireshark&logoColor=white)](https://www.wireshark.org/)
+[![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=Burp%20Suite&logoColor=white)](https://portswigger.net/burp)
+[![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat&logo=Obsidian&logoColor=white)](https://obsidian.md/)
+[![VMware](https://img.shields.io/badge/VMware-231f20?style=flat&logo=VMware&logoColor=white)](https://www.vmware.com/)
 
 ### OS
 
-![Windows 10](https://img.shields.io/badge/Windows_10-0078d4?style=for-the-badge&logo=windows-10&logoColor=whiteCALACAA&sourceid=chrome&ie=UTF-8)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+[![Windows 10](https://img.shields.io/badge/Windows_10-0078d4?style=flat&logo=windows-10&logoColor=whiteCALACAA&sourceid=chrome&ie=UTF-8)](https://www.microsoft.com/ko-kr/software-download/windows10)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
 ### Terminal
 
-![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
-![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+[![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=flat&logo=windows%20terminal&logoColor=white)](https://learn.microsoft.com/ko-kr/windows-server/administration/windows-commands/cmd)
+[![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white)](https://github.com/tmux/tmux/wiki)
 
 ### Social
 
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Hackerone](https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
-![TryHackMe](https://img.shields.io/badge/Try%20Hack%20Me-212C42?style=for-the-badge&logo=TryHackMe&logoColor=ff0000)
-![RootMe](https://img.shields.io/badge/RootMe-000000?style=for-the-badge&logo=RootMe&logoColor=white)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![Hackerone](https://img.shields.io/badge/Hackerone-494649?style=flat&logo=hackerone&logoColor=white)](https://www.hackerone.com/)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=flat&logo=Hack%20The%20Box&logoColor=9FEF00)](https://www.hackthebox.com/)
+[![TryHackMe](https://img.shields.io/badge/Try%20Hack%20Me-212C42?style=flat&logo=TryHackMe&logoColor=ff0000)](https://tryhackme.com/)
+[![RootMe](https://img.shields.io/badge/RootMe-000000?style=flat&logo=RootMe&logoColor=white)](https://www.root-me.org/?lang=en)
