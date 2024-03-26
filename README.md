@@ -62,8 +62,8 @@ Windows                  53 hrs 24 mins      ███████████�
 ### Terminal
 
 [![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=flat&logo=windows%20terminal&logoColor=white)](https://learn.microsoft.com/ko-kr/windows-server/administration/windows-commands/cmd)
-[![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white)](https://github.com/tmux/tmux/wiki)
+[![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windows%20terminal&logoColor=white)](https://learn.microsoft.com/ko-kr/windows-server/administration/windows-commands/cmd)
+[![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=flat&logo=tmux&logoColor=white)](https://github.com/tmux/tmux/wiki)
 
 ### Social
 
