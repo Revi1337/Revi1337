@@ -37,6 +37,10 @@ Windows                  53 hrs 24 mins      ███████████�
 [![revi1337's tryhackme stats](https://raw.githubusercontent.com/Revi1337/Revi1337/main/assets/thm_propic.png)][tryhackme]
 [<img src="https://www.hackthebox.com/badge/image/1002993" width="248.01" height="57">][hackthebox]
 
+[website]: https://revi1337.com
+[tryhackme]: https://tryhackme.com/p/revi1337
+[hackthebox]: https://app.hackthebox.com/profile/1002993
+
 ### Tools
 
 ![GitKraken](https://img.shields.io/badge/Git%20Kraken-179287.svg?&style=for-the-badge&logo=GitKraken&logoColor=white)
