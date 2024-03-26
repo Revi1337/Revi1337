@@ -42,7 +42,7 @@ Windows                  53 hrs 24 mins      ███████████�
 [hackthebox]: https://app.hackthebox.com/profile/1002993
 
 ### Tools
-
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitKraken](https://img.shields.io/badge/Git%20Kraken-179287.svg?&style=flat&logo=GitKraken&logoColor=white)](https://www.gitkraken.com/)
 [![intellijidea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/ko-kr/idea/)
 [![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
