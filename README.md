@@ -83,3 +83,5 @@ Windows                  53 hrs 24 mins      ███████████�
 <!-- https://icons8.com/icons/set/parrot-os--c-008000 -->
 <!-- https://github.com/badges/shields/issues/3612 -->
 <!-- https://www.google.com/search?q=ghidra+circle+logo&oq=ghidra+circle+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCTM4NDFqMGoxNagCALACAA&sourceid=chrome&ie=UTF-8#vhid=fAD9YXXfpstTdM&vssid=l -->
+<!-- https://www.iloveimg.com/download/sck3k3w7r6v9ws62A3q32zrhpz84dgs7q4q0fzj36tz1tl1qf7jz7tq01ds9vy3l3mxmhhv4wAhkm1tcnz3tjn83A7hf579jb36rxpjblw645ztqfd101j46tdts2z9g8swdgz7lh658hfxgvgs40ybqpzy3lplvyf4Ahmk07qmAbfmlrw71/11 -->
+<!-- https://compresspng.com/ -->
