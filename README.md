@@ -28,6 +28,7 @@ Mac                      61 hrs 8 mins       ███████████�
 ### Algorithm Stats
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=revi1337)](https://solved.ac/revi1337)
+[![Solved.ac그래프](https://mazandi.herokuapp.com/api?handle=Revi1337&theme=warm)
 
 ### Cyber Security Stats
 
