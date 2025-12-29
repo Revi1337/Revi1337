@@ -1,7 +1,7 @@
 ### Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C147%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C152%20hrs%2044%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,17 +9,17 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 4 hrs 51 mins       █████████████████████████   100.00 % 
+Markdown                 10 hrs 22 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 4 hrs 51 mins       █████████████████████████   100.00 % 
+Obsidian                 10 hrs 22 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/12/2025 16:15:34 UTC
+ Last Updated on 29/12/2025 16:16:51 UTC
 <!--END_SECTION:waka-->
 
 ### Algorithm Stats
