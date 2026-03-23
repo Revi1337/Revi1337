@@ -1,7 +1,7 @@
 ### Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C221%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C226%20hrs%2057%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,20 +9,20 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 16 hrs 35 mins      █████████████░░░░░░░░░░░░   51.60 % 
-Python                   15 hrs 29 mins      ████████████░░░░░░░░░░░░░   48.22 % 
+Python                   16 hrs 28 mins      █████████████░░░░░░░░░░░░   50.90 % 
+Markdown                 15 hrs 49 mins      ████████████░░░░░░░░░░░░░   48.91 % 
 Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-Obsidian                 16 hrs 35 mins      █████████████░░░░░░░░░░░░   51.60 % 
-PyCharm                  15 hrs 33 mins      ████████████░░░░░░░░░░░░░   48.40 % 
+PyCharm                  16 hrs 32 mins      █████████████░░░░░░░░░░░░   51.09 % 
+Obsidian                 15 hrs 49 mins      ████████████░░░░░░░░░░░░░   48.91 % 
 
 💻 Operating System: 
-Mac                      32 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      32 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/03/2026 16:20:10 UTC
+ Last Updated on 23/03/2026 16:49:33 UTC
 <!--END_SECTION:waka-->
 
 ### Algorithm Stats
