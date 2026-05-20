@@ -9,19 +9,19 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 15 hrs 49 mins      █████████████████████████   100.00 % 
+Markdown                 11 hrs 27 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 58 mins      ████████████████████████░   94.61 % 
-Obsidian                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Claude Code              11 hrs 16 mins      █████████████████████████   98.30 % 
+Obsidian                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-Mac                      15 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/05/2026 17:57:50 UTC
+ Last Updated on 20/05/2026 18:10:21 UTC
 <!--END_SECTION:waka-->
 
 ### Algorithm Stats
