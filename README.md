@@ -1,29 +1,8 @@
 ### Coding Stats
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Markdown                 16 hrs 29 mins      ██████████████████████░░░   87.85 % 
-TypeScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Python                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-YAML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-
-🔥 Editors: 
-Claude Code              13 hrs 57 mins      ███████████████████░░░░░░   74.41 % 
-Obsidian                 2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-PyCharm                  2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-
-💻 Operating System: 
-Mac                      18 hrs 45 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 22/05/2026 17:44:45 UTC
+ Last Updated on 23/05/2026 16:51:48 UTC
 <!--END_SECTION:waka-->
 
 ### Algorithm Stats
