@@ -1,31 +1,8 @@
 ### Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C504%20hrs%2059%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Markdown                 14 hrs 23 mins      ████████████████████░░░░░   78.44 % 
-JavaScript               3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 20 mins      █████████████████░░░░░░░░   67.27 % 
-Claude Code              5 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   31.09 % 
-Obsidian                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-
-💻 Operating System: 
-Mac                      18 hrs 21 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 27/05/2026 18:19:49 UTC
+ Last Updated on 28/05/2026 18:29:58 UTC
 <!--END_SECTION:waka-->
 
 ### Algorithm Stats
