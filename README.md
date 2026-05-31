@@ -1,7 +1,7 @@
 ### Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C529%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C537%20hrs%2029%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,24 +9,24 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 25 hrs 53 mins      █████████████████░░░░░░░░   69.78 % 
-TypeScript               3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-JavaScript               3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Java                     1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Git Config               31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Markdown                 23 hrs 48 mins      ██████████████░░░░░░░░░░░   56.85 % 
+TypeScript               8 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+Java                     3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+JavaScript               3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+JSON                     41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 16 mins      ██████████████░░░░░░░░░░░   54.66 % 
-Antigravityide           8 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-Unknown Editor           7 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-Claude Code              54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+VS Code                  23 hrs 3 mins       ██████████████░░░░░░░░░░░   55.05 % 
+Antigravityide           12 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+Unknown Editor           4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Claude Code              1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 
 💻 Operating System: 
-Mac                      37 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      41 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/05/2026 16:52:50 UTC
+ Last Updated on 31/05/2026 16:58:13 UTC
 <!--END_SECTION:waka-->
 
 ### Algorithm Stats
