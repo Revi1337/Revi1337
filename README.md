@@ -9,24 +9,24 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 23 hrs 1 min        ██████████████░░░░░░░░░░░   57.33 % 
-YAML                     5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Java                     3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Other                    2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-JSON                     2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Markdown                 19 hrs 46 mins      █████████████░░░░░░░░░░░░   53.61 % 
+YAML                     5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Java                     3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Other                    2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+JSON                     2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
 
 🔥 Editors: 
-Claude Code              29 hrs 3 mins       ██████████████████░░░░░░░   72.34 % 
-Antigravity CLI          7 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-Antigravity IDE          2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Obsidian                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Claude Code              26 hrs 4 mins       ██████████████████░░░░░░░   70.66 % 
+Antigravity CLI          7 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Antigravity IDE          2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Obsidian                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 💻 Operating System: 
-Mac                      40 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      36 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/07/2026 16:54:33 UTC
+ Last Updated on 05/07/2026 16:57:59 UTC
 <!--END_SECTION:waka-->
 
 ### Algorithm Stats
