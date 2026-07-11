@@ -1,7 +1,7 @@
 ### Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C762%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C766%20hrs%2055%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,24 +9,23 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 11 hrs 14 mins      █████████░░░░░░░░░░░░░░░░   37.19 % 
-TypeScript               6 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-HTML                     3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Java                     3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Other                    2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Markdown                 13 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   39.90 % 
+TypeScript               7 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+YAML                     3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+HTML                     3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Java                     3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 48 mins      ███████████░░░░░░░░░░░░░░   45.69 % 
-Antigravity IDE          11 hrs 41 mins      ██████████░░░░░░░░░░░░░░░   38.70 % 
-Antigravity CLI          4 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Obsidian                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Claude Code              17 hrs 8 mins       ████████████░░░░░░░░░░░░░   48.96 % 
+Antigravity IDE          12 hrs 50 mins      █████████░░░░░░░░░░░░░░░░   36.67 % 
+Antigravity CLI          5 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
 
 💻 Operating System: 
-Mac                      30 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      35 hrs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/07/2026 17:40:54 UTC
+ Last Updated on 11/07/2026 16:44:15 UTC
 <!--END_SECTION:waka-->
 
 ### Algorithm Stats
