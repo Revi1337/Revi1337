@@ -1,7 +1,7 @@
 ### Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C810%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C812%20hrs%2023%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,25 +9,25 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 22 hrs 26 mins      ████████████░░░░░░░░░░░░░   46.23 % 
-YAML                     7 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-TypeScript               7 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-HTML                     3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Java                     3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Markdown                 19 hrs 33 mins      ███████████░░░░░░░░░░░░░░   44.94 % 
+YAML                     6 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+TypeScript               6 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+HTML                     3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Java                     3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
 
 🔥 Editors: 
-Claude Code              26 hrs 56 mins      ██████████████░░░░░░░░░░░   55.51 % 
-Antigravity IDE          15 hrs 8 mins       ████████░░░░░░░░░░░░░░░░░   31.20 % 
-Antigravity CLI          5 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Obsidian                 49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-PyCharm                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Claude Code              27 hrs 31 mins      ████████████████░░░░░░░░░   63.27 % 
+Antigravity IDE          11 hrs 39 mins      ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+Antigravity CLI          4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+PyCharm                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Obsidian                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      48 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      43 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/07/2026 16:45:50 UTC
+ Last Updated on 19/07/2026 16:47:24 UTC
 <!--END_SECTION:waka-->
 
 ### Algorithm Stats
