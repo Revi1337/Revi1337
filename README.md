@@ -9,25 +9,24 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 19 hrs 33 mins      ███████████░░░░░░░░░░░░░░   44.94 % 
-YAML                     6 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-TypeScript               6 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-HTML                     3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Java                     3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Markdown                 14 hrs 10 mins      ███████████░░░░░░░░░░░░░░   42.24 % 
+YAML                     6 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+TypeScript               4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Java                     3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+HTML                     2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
 
 🔥 Editors: 
-Claude Code              27 hrs 31 mins      ████████████████░░░░░░░░░   63.27 % 
-Antigravity IDE          11 hrs 39 mins      ███████░░░░░░░░░░░░░░░░░░   26.80 % 
-Antigravity CLI          4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-PyCharm                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Obsidian                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Claude Code              22 hrs 50 mins      █████████████████░░░░░░░░   68.09 % 
+Antigravity IDE          9 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+Antigravity CLI          1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+PyCharm                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 💻 Operating System: 
-Mac                      43 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/07/2026 16:47:24 UTC
+ Last Updated on 20/07/2026 17:24:49 UTC
 <!--END_SECTION:waka-->
 
 ### Algorithm Stats
