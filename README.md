@@ -1,9 +1,9 @@
 ### Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C912%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C920%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-393%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-403%20hrs%209%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -11,50 +11,50 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               29 hrs 29 mins      █████████████░░░░░░░░░░░░   52.61 % 
-Markdown                 18 hrs 2 mins       ████████░░░░░░░░░░░░░░░░░   32.16 % 
-CSS                      3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-Other                    1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-JavaScript               1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+TypeScript               32 hrs 55 mins      █████████████░░░░░░░░░░░░   51.65 % 
+Markdown                 20 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   32.05 % 
+CSS                      3 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Other                    2 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+JavaScript               1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🔥 Editors: 
-Claude Code              41 hrs 52 mins      ███████████████████░░░░░░   74.69 % 
-Antigravity IDE          7 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Antigravity CLI          5 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-PyCharm                  25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Obsidian                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Claude Code              48 hrs 37 mins      ███████████████████░░░░░░   76.25 % 
+Antigravity IDE          8 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Antigravity CLI          5 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+PyCharm                  25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Obsidian                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 💻 Operating System: 
-Mac                      56 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      63 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 hrs 20 mins (95.15%)
+⏱ AI Coding Time: 61 hrs 24 mins (96.3%)
 
-✍️ 9,044 lines written by AI, 79 lines written by hand (99.13% AI-written)
+✍️ 9,491 lines written by AI, 77 lines written by hand (99.2% AI-written)
 
-🔤 913,851,508 Input Tokens, 3,237,844 Output Tokens
+🔤 1,057,329,486 Input Tokens, 3,711,841 Output Tokens
 
-💵 $3117.89 Estimated AI Cost This Week
+💵 $3571.85 Estimated AI Cost This Week
 
-🧠 108 AI Sessions, 1346 AI Prompts
+🧠 121 AI Sessions, 1638 AI Prompts
 
-Sonnet                   9,909 lines         ████████████████████████░   97.43 % 
-Gemini                   219 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-Opus                     42 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Sonnet                   10,399 lines        ████████████████████████░   97.54 % 
+Gemini                   220 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Opus                     42 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.13% of written lines came from AI
-📄 Detailed Prompter — average 692 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 9.26% of changed lines were hand-edited
+🤖 AI-Driven — 99.2% of written lines came from AI
+📄 Detailed Prompter — average 1,018 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 8.83% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/08/2026 16:51:17 UTC
+ Last Updated on 02/08/2026 16:50:30 UTC
 <!--END_SECTION:waka-->
 
 ### Algorithm Stats
