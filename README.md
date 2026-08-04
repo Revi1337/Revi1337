@@ -1,9 +1,9 @@
 ### Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C920%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C931%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-403%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-408%20hrs%2012%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -11,50 +11,50 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               32 hrs 55 mins      █████████████░░░░░░░░░░░░   51.65 % 
-Markdown                 20 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   32.05 % 
-CSS                      3 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Other                    2 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-JavaScript               1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+TypeScript               25 hrs 36 mins      ███████████░░░░░░░░░░░░░░   43.81 % 
+Markdown                 19 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   33.28 % 
+Python                   6 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+CSS                      3 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Other                    1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🔥 Editors: 
-Claude Code              48 hrs 37 mins      ███████████████████░░░░░░   76.25 % 
-Antigravity IDE          8 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Antigravity CLI          5 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-PyCharm                  25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-Obsidian                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Claude Code              39 hrs 57 mins      █████████████████░░░░░░░░   68.36 % 
+Antigravity IDE          7 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+PyCharm                  6 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Antigravity CLI          4 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+Obsidian                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 💻 Operating System: 
-Mac                      63 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      58 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 61 hrs 24 mins (96.3%)
+⏱ AI Coding Time: 51 hrs 31 mins (88.14%)
 
-✍️ 9,491 lines written by AI, 77 lines written by hand (99.2% AI-written)
+✍️ 3,914 lines written by AI, 387 lines written by hand (91.0% AI-written)
 
-🔤 1,057,329,486 Input Tokens, 3,711,841 Output Tokens
+🔤 867,657,347 Input Tokens, 2,916,986 Output Tokens
 
-💵 $3571.85 Estimated AI Cost This Week
+💵 $3014.80 Estimated AI Cost This Week
 
-🧠 121 AI Sessions, 1638 AI Prompts
+🧠 101 AI Sessions, 1451 AI Prompts
 
-Sonnet                   10,399 lines        ████████████████████████░   97.54 % 
-Gemini                   220 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Opus                     42 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Sonnet                   4,849 lines         ████████████████████████░   96.29 % 
+Gemini                   178 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Opus                     9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.2% of written lines came from AI
-📄 Detailed Prompter — average 1,018 characters per prompt
+🤖 AI-Driven — 91.0% of written lines came from AI
+📄 Detailed Prompter — average 1,056 characters per prompt
 🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 8.83% of changed lines were hand-edited
+🚀 High AI Trust — 27.36% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/08/2026 16:50:30 UTC
+ Last Updated on 04/08/2026 17:35:58 UTC
 <!--END_SECTION:waka-->
 
 ### Algorithm Stats
