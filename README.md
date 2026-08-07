@@ -1,60 +1,8 @@
 ### Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C933%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-410%20hrs%2041%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-TypeScript               23 hrs 22 mins      ███████████░░░░░░░░░░░░░░   45.74 % 
-Markdown                 15 hrs 14 mins      ███████░░░░░░░░░░░░░░░░░░   29.85 % 
-Python                   6 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Other                    1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-CSS                      1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-
-🔥 Editors: 
-Claude Code              34 hrs 46 mins      █████████████████░░░░░░░░   68.06 % 
-PyCharm                  6 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Antigravity IDE          5 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-Antigravity CLI          4 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Obsidian                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-
-💻 Operating System: 
-Mac                      51 hrs 5 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 44 hrs 45 mins (87.6%)
-
-✍️ 3,950 lines written by AI, 357 lines written by hand (91.71% AI-written)
-
-🔤 773,332,842 Input Tokens, 2,575,566 Output Tokens
-
-💵 $2749.11 Estimated AI Cost This Week
-
-🧠 84 AI Sessions, 1263 AI Prompts
-
-Sonnet                   4,900 lines         ████████████████████████░   96.91 % 
-Gemini                   147 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Opus                     9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 91.71% of written lines came from AI
-📄 Detailed Prompter — average 1,061 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 15.12% of changed lines were hand-edited
-```
-
-
- Last Updated on 05/08/2026 17:21:25 UTC
+ Last Updated on 07/08/2026 16:42:44 UTC
 <!--END_SECTION:waka-->
 
 ### Algorithm Stats
