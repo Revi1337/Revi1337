@@ -11,46 +11,46 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 33 hrs 39 mins      ███████████████████████░░   92.62 % 
-JSON                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-Bash                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Git Config               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Markdown                 27 hrs 56 mins      ███████████████████████░░   91.25 % 
+JSON                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Bash                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Git Config               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 57 mins      █████████████░░░░░░░░░░░░   52.18 % 
-Antigravity CLI          15 hrs 7 mins       ██████████░░░░░░░░░░░░░░░   41.62 % 
-Antigravity IDE          2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Claude Code              18 hrs 18 mins      ███████████████░░░░░░░░░░   59.77 % 
+Antigravity CLI          10 hrs 23 mins      ████████░░░░░░░░░░░░░░░░░   33.91 % 
+Antigravity IDE          1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 
 💻 Operating System: 
-Mac                      36 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 54 mins (98.79%)
+⏱ AI Coding Time: 30 hrs 14 mins (98.74%)
 
-✍️ 5,642 lines written by AI, 147 lines written by hand (97.46% AI-written)
+✍️ 5,626 lines written by AI, 147 lines written by hand (97.45% AI-written)
 
-🔤 8,825,499 Input Tokens, 1,224,685 Output Tokens
+🔤 8,621,027 Input Tokens, 1,190,441 Output Tokens
 
-💵 $77.84 Estimated AI Cost This Week
+💵 $75.22 Estimated AI Cost This Week
 
-🧠 96 AI Sessions, 762 AI Prompts
+🧠 81 AI Sessions, 659 AI Prompts
 
-Sonnet                   5,943 lines         █████████████████████████   100.00 % 
+Sonnet                   5,926 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.46% of written lines came from AI
-📚 Verbose Prompter — average 1,710 characters per prompt
+🤖 AI-Driven — 97.45% of written lines came from AI
+📚 Verbose Prompter — average 1,913 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 2.86% of changed lines were hand-edited
+🚀 High AI Trust — 2.74% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/08/2026 19:02:02 UTC
+ Last Updated on 30/08/2026 18:57:15 UTC
 <!--END_SECTION:waka-->
 
 ### Algorithm Stats
