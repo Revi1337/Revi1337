@@ -1,60 +1,12 @@
 ### Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C074%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C077%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-556%20hrs%2026%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Markdown                 15 hrs 41 mins      ██████████████░░░░░░░░░░░   55.08 % 
-TypeScript               3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Other                    3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-YAML                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Bash                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-
-🔥 Editors: 
-Claude Code              22 hrs 55 mins      ████████████████████░░░░░   80.49 % 
-Antigravity IDE          2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Antigravity CLI          2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Codex CLI                17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-Obsidian                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-
-💻 Operating System: 
-Mac                      28 hrs 29 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 27 hrs 21 mins (96.02%)
-
-✍️ 9,643 lines written by AI, 175 lines written by hand (98.22% AI-written)
-
-🔤 9,997,205 Input Tokens, 1,972,669 Output Tokens
-
-💵 $218.73 Estimated AI Cost This Week
-
-🧠 46 AI Sessions, 651 AI Prompts
-
-Sonnet                   10,072 lines        █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.22% of written lines came from AI
-📄 Detailed Prompter — average 697 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 2.77% of changed lines were hand-edited
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-558%20hrs%2037%20mins-blue?style=flat)
 
 
- Last Updated on 19/09/2026 18:18:43 UTC
+ Last Updated on 20/09/2026 18:23:54 UTC
 <!--END_SECTION:waka-->
 
 ### Algorithm Stats
