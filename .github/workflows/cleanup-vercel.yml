@@ -1,0 +1,97 @@
+name: Cleanup Vercel Deployments
+
+on:
+  schedule:
+    # 매일 한국 시간 새벽 03:00 (UTC 18:00)
+    - cron: '0 18 * * *'
+  workflow_dispatch: # 수동 실행 지원
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cleanup Old Deployments
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        run: |
+          node -e '
+          async function main() {
+            const token = process.env.VERCEL_TOKEN;
+            if (!token) throw new Error("VERCEL_TOKEN secret is not set!");
+            const headers = { Authorization: `Bearer ${token}` };
+
+            // 1. Team ID 확인 (팀 스코프 토큰 대응 및 폴백 지원)
+            let teamId = null;
+            try {
+              const teamsRes = await fetch("https://api.vercel.com/v2/teams", { headers });
+              if (teamsRes.ok) {
+                const teamsData = await teamsRes.json();
+                teamId = teamsData.teams?.[0]?.id;
+              }
+            } catch (e) {
+              console.log("Team lookup skipped, using fallback.");
+            }
+            if (!teamId) {
+              teamId = "team_g9bdEY2vJVTwukJZ5Fc85nZ7";
+            }
+            const query = `?teamId=${teamId}`;
+            console.log(`Using Team ID: ${teamId}`);
+
+            // 2. 전체 프로젝트 자동 조회
+            const projectsRes = await fetch(`https://api.vercel.com/v9/projects${query}`, { headers });
+            if (!projectsRes.ok) {
+              throw new Error(`Failed to list projects: ${projectsRes.status} ${projectsRes.statusText}`);
+            }
+            const projectsData = await projectsRes.json();
+            const projects = projectsData.projects || [];
+            console.log(`Found ${projects.length} project(s).\n`);
+
+            // 3. 각 프로젝트별로 최신 1개만 남기고 나머지 전부 삭제
+            for (const project of projects) {
+              console.log(`----------------------------------------`);
+              console.log(`[Project] ${project.name} (${project.id})`);
+
+              // 페이지네이션을 통해 프로젝트의 모든 배포 목록 조회
+              let allDeployments = [];
+              let until = undefined;
+              while (true) {
+                const url = `https://api.vercel.com/v6/deployments${query}&projectId=${project.id}&limit=100${until ? `&until=${until}` : ""}`;
+                const res = await fetch(url, { headers });
+                if (!res.ok) {
+                  console.error(`  Failed to fetch deployments: ${res.statusText}`);
+                  break;
+                }
+                const data = await res.json();
+                const list = data.deployments || [];
+                if (list.length === 0) break;
+                allDeployments.push(...list);
+                if (!data.pagination?.next || list.length < 100) break;
+                until = data.pagination.next;
+              }
+
+              if (allDeployments.length <= 1) {
+                console.log(`  -> 배포가 ${allDeployments.length}개뿐이므로 보존하고 건너뜁니다.`);
+                continue;
+              }
+
+              // 맨 앞(최신 배포) 1개만 보존
+              const [latest, ...oldDeployments] = allDeployments;
+              console.log(`  -> 최신 배포 보존: ${latest.uid} (${new Date(latest.created).toLocaleString("ko-KR", { timeZone: "Asia/Seoul" })}) [${latest.url}]`);
+              console.log(`  -> 이전 배포 ${oldDeployments.length}개 삭제 진행...`);
+
+              for (const old of oldDeployments) {
+                const delUrl = `https://api.vercel.com/v13/deployments/${old.uid}${query}`;
+                const delRes = await fetch(delUrl, { method: "DELETE", headers });
+                const timeStr = new Date(old.created).toLocaleString("ko-KR", { timeZone: "Asia/Seoul" });
+                if (delRes.ok) {
+                  console.log(`     ✓ 삭제 완료: ${old.uid} (${timeStr}) [${old.url}]`);
+                } else {
+                  console.warn(`     ✗ 삭제 실패: ${old.uid} (${delRes.statusText})`);
+                }
+              }
+            }
+            console.log(`----------------------------------------`);
+            console.log(`\n🎉 모든 프로젝트의 정리가 완료되었습니다!`);
+          }
+          main().catch(err => { console.error(err); process.exit(1); });
+          '
