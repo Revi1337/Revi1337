@@ -1,9 +1,9 @@
 ### Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C150%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C157%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-629%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-635%20hrs%2032%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -11,47 +11,49 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     12 hrs 51 mins      ███████████░░░░░░░░░░░░░░   43.12 % 
-Markdown                 6 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
-YAML                     5 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-TypeScript               1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Other                    1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Java                     12 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   34.77 % 
+Markdown                 7 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+YAML                     5 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+JSON                     3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+TypeScript               2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 13 mins      ██████████████████░░░░░░░   71.21 % 
-Antigravity IDE          8 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   28.50 % 
-Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Claude Code              25 hrs 15 mins      ██████████████████░░░░░░░   71.59 % 
+Antigravity IDE          9 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   28.17 % 
+Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 💻 Operating System: 
-Mac                      29 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      35 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 10 mins (77.74%)
+⏱ AI Coding Time: 27 hrs 44 mins (78.61%)
 
-✍️ 2,969 lines written by AI, 704 lines written by hand (80.83% AI-written)
+✍️ 8,205 lines written by AI, 690 lines written by hand (92.24% AI-written)
 
-🔤 6,107,188 Input Tokens, 1,640,916 Output Tokens
+🔤 7,690,849 Input Tokens, 2,235,793 Output Tokens
 
-💵 $192.70 Estimated AI Cost This Week
+💵 $209.23 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 524 AI Prompts
+🧠 51 AI Sessions, 639 AI Prompts
 
-Sonnet                   3,382 lines         █████████████████████████   100.00 % 
+Sonnet                   7,018 lines         ████████████████████░░░░░   79.81 % 
+Opus                     1,775 lines         █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 80.83% of written lines came from AI
-📄 Detailed Prompter — average 679 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 19.57% of changed lines were hand-edited
+🤖 AI-Driven — 92.24% of written lines came from AI
+📄 Detailed Prompter — average 984 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 8.45% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/10/2026 22:16:00 UTC
+ Last Updated on 06/10/2026 20:41:19 UTC
 <!--END_SECTION:waka-->
 
 ### Algorithm Stats
