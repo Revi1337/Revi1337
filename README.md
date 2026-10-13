@@ -1,59 +1,7 @@
-### Coding Stats
+### AI Code Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C188%20hrs%2025%20mins-blue?style=flat)
-
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-664%20hrs%2026%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Markdown                 11 hrs 49 mins      ████████░░░░░░░░░░░░░░░░░   30.56 % 
-Java                     10 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-YAML                     7 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-JSON                     3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-TypeScript               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-
-🔥 Editors: 
-Claude Code              33 hrs 41 mins      ██████████████████████░░░   87.09 % 
-Antigravity IDE          3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Obsidian                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-PyCharm                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-
-💻 Operating System: 
-Mac                      38 hrs 41 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 35 hrs 25 mins (91.57%)
-
-✍️ 9,464 lines written by AI, 36 lines written by hand (99.62% AI-written)
-
-🔤 14,634,274 Input Tokens, 3,050,012 Output Tokens
-
-💵 $273.54 Estimated AI Cost This Week
-
-🧠 44 AI Sessions, 772 AI Prompts
-
-Sonnet                   8,039 lines         ████████████████████░░░░░   81.91 % 
-Opus                     1,775 lines         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.62% of written lines came from AI
-📄 Detailed Prompter — average 940 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 2.11% of changed lines were hand-edited
-```
-
-
- Last Updated on 12/10/2026 22:40:13 UTC
 <!--END_SECTION:waka-->
 
 ### Algorithm Stats
@@ -61,6 +9,7 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=revi1337)](https://solved.ac/revi1337)
 [![Solved.ac그래프](https://mazandi.herokuapp.com/api?handle=Revi1337&theme=warm)](https://solved.ac/revi1337)
 
+<!--
 ### Cyber Security Stats
 
 [![revi1337's tryhackme stats](https://raw.githubusercontent.com/Revi1337/Revi1337/main/assets/thm_propic.png)][tryhackme]
@@ -89,9 +38,6 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 [![Parrot Linux](https://img.shields.io/badge/Parrot%20Linux-15E0ED.svg?&style=flat&logo=data:image/png;base64,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)](https://www.parrotsec.org/)
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)](https://www.kali.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-<!-- 
-[![Parrot Linux](https://img.shields.io/badge/Parrot-000000.svg?&style=flat&logo=data:image/png;base64,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)](https://www.parrotsec.org/)
--->
 
 ### Terminal
 
@@ -107,10 +53,11 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 [![TryHackMe](https://img.shields.io/badge/Try%20Hack%20Me-212C42?style=flat&logo=TryHackMe&logoColor=ff0000)](https://tryhackme.com/)
 [![RootMe](https://img.shields.io/badge/RootMe-000000?style=flat&logo=RootMe&logoColor=white)](https://www.root-me.org/?lang=en)
 
-<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-blog- -->
-<!-- https://www.base64-image.de/ -->
-<!-- https://icons8.com/icons/set/parrot-os--c-008000 -->
-<!-- https://github.com/badges/shields/issues/3612 -->
-<!-- https://www.google.com/search?q=ghidra+circle+logo&oq=ghidra+circle+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCTM4NDFqMGoxNagCALACAA&sourceid=chrome&ie=UTF-8#vhid=fAD9YXXfpstTdM&vssid=l -->
-<!-- https://www.iloveimg.com/download/sck3k3w7r6v9ws62A3q32zrhpz84dgs7q4q0fzj36tz1tl1qf7jz7tq01ds9vy3l3mxmhhv4wAhkm1tcnz3tjn83A7hf579jb36rxpjblw645ztqfd101j46tdts2z9g8swdgz7lh658hfxgvgs40ybqpzy3lplvyf4Ahmk07qmAbfmlrw71/11 -->
-<!-- https://compresspng.com/ -->
+https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-blog-
+https://www.base64-image.de/
+https://icons8.com/icons/set/parrot-os--c-008000
+https://github.com/badges/shields/issues/3612
+https://www.google.com/search?q=ghidra+circle+logo&oq=ghidra+circle+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCTM4NDFqMGoxNagCALACAA&sourceid=chrome&ie=UTF-8#vhid=fAD9YXXfpstTdM&vssid=l
+https://www.iloveimg.com/download/sck3k3w7r6v9ws62A3q32zrhpz84dgs7q4q0fzj36tz1tl1qf7jz7tq01ds9vy3l3mxmhhv4wAhkm1tcnz3tjn83A7hf579jb36rxpjblw645ztqfd101j46tdts2z9g8swdgz7lh658hfxgvgs40ybqpzy3lplvyf4Ahmk07qmAbfmlrw71/11
+https://compresspng.com/
+-->
